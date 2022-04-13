@@ -1,3 +1,19 @@
+
+# Versão do Python
+
+De 3.7 a 3.9.
+
+Se não tiver, instalar virtualenv 3.7 por exemplo:
+
+```sudo apt-get install python3.7-venv```
+
+Criar ambiente virtual com versão desejada:
+
+```
+python3.7 -m venv .venv
+source .venv/bin/activate
+```
+
 # Instalação rasa
 
 ```
